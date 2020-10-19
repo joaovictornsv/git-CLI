@@ -1,4 +1,10 @@
-# Comandos GIT básicos
+<div align="center">
+  # Comandos GIT básicos
+  
+  *Credits: [Beanstalk Guides](http://guides.beanstalkapp.com/) & [Git](https://git-scm.com/)*
+  
+  <hr>
+ </div>
 
 ### Iniciando o git:
 
