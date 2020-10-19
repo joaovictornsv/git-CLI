@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.imgur.com/Axy4rQb.png" width="800px">
+  <img src="https://i.imgur.com/0l2bQ8n.png" width="500px">
    
   *🔧 Repositório em construção*
   
