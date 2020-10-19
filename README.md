@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Comandos GIT básicos</h1>
   
-  *Credits: [Beanstalk Guides](http://guides.beanstalkapp.com/) & [Git](https://git-scm.com/)*
+  *📝 Credits: [Beanstalk Guides](http://guides.beanstalkapp.com/) & [Git](https://git-scm.com/)*
+  
+  *🤝 Aberto para PR's*
   
   <hr>
  </div>
