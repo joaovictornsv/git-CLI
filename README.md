@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Comandos GIT básicos</h1>
   
+  <img src="https://i.imgur.com/Axy4rQb.png" width="800px">
+   
   *🔧 Repositório em construção*
   
   *🤝 Aberto para PR's*
