@@ -1,5 +1,5 @@
 <div align="center">
-  # Comandos GIT básicos
+  <h1>Comandos GIT básicos</h1>
   
   *Credits: [Beanstalk Guides](http://guides.beanstalkapp.com/) & [Git](https://git-scm.com/)*
   
