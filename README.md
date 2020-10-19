@@ -8,13 +8,13 @@
   <hr>
  </div>
 
-### Iniciando o git:
+## Iniciando o git:
 
 `git init`
 
 Rodando esse comando na sua pasta será criado um novo repositório local.
 
-### Adicionando arquivos para área de preparação
+## Adicionando arquivos para área de preparação
 
 `git add`
 
@@ -22,7 +22,7 @@ Antes de ficar disponível para um commit, os arquivos e/ou pastas do seu reposi
 
 O Git index contém as últimas alterações da sua árvore de trabalho antes do próximo commit.
 
-#### Uso:
+### Uso:
 Para todas as alterações:<br/>
 `git add .`
 
