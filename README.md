@@ -1,2 +1,7 @@
-# git-CLI
-Repository with the explain of initial git commands
+# Essentials GIT Commands
+
+### The principle:
+
+````git init````
+
+Start git in your folder, creating a new local repository
