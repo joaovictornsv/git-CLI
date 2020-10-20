@@ -11,7 +11,7 @@
   <hr>
  </div>
 
-## Iniciando o git:
+## 1. Iniciando o git:
 
 `git init`
 
@@ -19,18 +19,18 @@ Rodando esse comando na sua pasta será criado um novo repositório local. <br/>
 Caso essa pasta ja seja um repositório, esse será reiniciado.
 <hr>
 
-## Trabalhando com Repositório remoto
+## 2. Trabalhando com Repositório remoto
 
 Repositório remoto consite em um repositorio com **serviço de nuvem**, o qual o codigo fica armazenado além do repositório local <br/>
 Exemplos de serviços de nuvem: Github, Gitlab, Bitbucket
 
-### Relacionando repositório local com remoto: 
+### 2.1 Relacionando repositório local com remoto: 
 
 `git remote add <nome_do_remote> https://github.com/Username/Nome_do_repositório.git` <br/>
 OBS: nome do remote **normalmente** usado: `origin`
 <hr>
 
-## Adicionando arquivos para área de preparação
+## 3. Adicionando arquivos para área de preparação
 
 `git add`
 
@@ -38,7 +38,7 @@ Antes de ficar disponível para um commit, os arquivos e/ou pastas do seu reposi
 
 O Git index contém as últimas alterações da sua árvore de trabalho antes do próximo commit.
 
-### Uso:
+### 3.1 Uso:
 Para todas as alterações:<br/>
 `git add .`
 
@@ -49,7 +49,7 @@ Para uma pasta específica:<br/>
 `git add <nome_da_pasta>`
 <hr>
 
-## Área de preparação
+## 4. Área de preparação
 
 `git commit -m 'mensagem do commit'`
 
