@@ -4,6 +4,8 @@
    
   *🔧 Repositório em construção*
   
+  *📖 [Dicionário Git](https://github.com/joaovictornsv/git-CLI/blob/main/dictionary.md)*
+  
   *🤝 Aberto para PR's*
   
   *📝 Credits: [Beanstalk Guides](http://guides.beanstalkapp.com/) & [Git](https://git-scm.com/)*
