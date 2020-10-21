@@ -69,3 +69,10 @@ Para uma pasta específica:<br/>
 `git commit -m 'mensagem do commit'`
 
 Área de preparação é onde as mudanças feitas nos arquivos que foram adicionados com o `git add` serão preparadas (Staged changes)
+
+### 4.1 Atalho
+
+Com o comando abaixo irá executar as duas ações mencionadas acima, `git add .` e `git commit -m 'menssagem do commit'`. 
+`git commit -am 'mensagem do commit'`
+
+
