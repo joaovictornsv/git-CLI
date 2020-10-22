@@ -72,7 +72,8 @@ Para uma pasta específica:<br/>
 
 ### 4.1 Atalho
 
-Com o comando abaixo irá executar as duas ações mencionadas acima, `git add .` e `git commit -m 'menssagem do commit'`. 
+Com o comando abaixo irá executar as duas ações mencionadas acima, `git add .` e `git commit -m 'menssagem do commit'`.
+
 `git commit -am 'mensagem do commit'`
 
 
