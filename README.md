@@ -21,7 +21,7 @@
 *2. [Trabalhando com Repositório remoto](#2-trabalhando-com-repositório-remoto)*\
 *3. [Adicionando arquivos para área de preparação](#3-adicionando-arquivos-para-área-de-preparação)*\
 *4. [Área de preparação](#4-área-de-preparação)*\
-*5. [Contribuindo com repositórios de terceiros(open-source)](#5-Contribuindo-com-repositórios-de-terceiros(open-source))*
+*5. [Contribuindo com repositórios de terceiros(open-source)](#5-contribuindo-com-repositórios-de-terceiros(open-source))*
   
  </div>
  
@@ -83,14 +83,14 @@ Com o comando abaixo irá executar as duas ações mencionadas acima, `git add .
 
 Um grande diferencial de plataformas **open-source** é a possibilidade de **contribuir com repositórios de terceiros**, para isso é preciso seguir os seguintes passos:
 
-**1 -** Vá até o repositório que deseja contribuir `https://github.com/Username/Nome_do_repositório`,
+**1 -** Vá até o repositório que deseja contribuir `https://github.com/Username/Nome_do_repositório`
 <br><br>
 
 **2 -** Fork o repositório, com isso você criará uma **ramificação** do repositório principal, a qual poderá fazer mudanças, <br>
        pois essa será a **SUA** versão do projeto principal 
 <br><br>
 
-**3 -** Clone seu repositório "forkado" do projeto principal com: `git clone https://github.com/Seu_Username/Nome_do_repositório`
+**3 -** Clone seu repositório "forkado" do projeto principal com: `git clone https://github.com/Seu_Username/Nome_do_repositório.git`
 <br><br>
 
 **4 -** Crie uma nova Branch: <br>
