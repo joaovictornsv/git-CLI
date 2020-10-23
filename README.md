@@ -21,7 +21,7 @@
 *2. [Trabalhando com Repositório remoto](#2-trabalhando-com-repositório-remoto)*\
 *3. [Adicionando arquivos para área de preparação](#3-adicionando-arquivos-para-área-de-preparação)*\
 *4. [Área de preparação](#4-área-de-preparação)*\
-*5. [Open-source](#5-Contribuindo-com-repositórios-de-terceiros(open-source))*
+*5. [Contribuindo com repositórios de terceiros(open-source)](#5-Contribuindo-com-repositórios-de-terceiros(open-source))*
   
  </div>
  
