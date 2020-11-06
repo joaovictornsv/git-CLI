@@ -73,13 +73,30 @@ Para uma pasta específica:<br/>
 
 ### 4.1 Atalho
 
-Com o comando abaixo irá executar as duas ações mencionadas acima, `git add .` e `git commit -m 'menssagem do commit'`.
+Com o comando abaixo, irá criar um commit com os arquivos marcados como **Commit candidate** e os **modified** e junta com a mensagem, mensagem do commit.
 
 `git commit -am 'mensagem do commit'`
 
 <hr>
 
-## 5. Contribuindo com repositórios de terceiros(open-source)
+## 5. Criar branches
+
+Esse **master** é um **branch** que o git cria automagicamente quando você faz um commit sem estar em nenhum branch (como é o caso de um repositório recém criado).
+
+> OBS: No github, por default, todo novo repo terá a branch nomeada como **main**, substituindo o branch **master**.
+
+Quando usamos Git, quase todas as operações são feitas dentro de um branch. Um branch nada mais é que uma lista de commits. Você pode criar, apagar e renomear branches.
+
+Para criar você usa o comando `git branch NOME_DO_BRANCH`. Para apagar `git branch -D NOME_DO_BRANCH`. E para renomear você usa `git branch -m NOME_ANTIGO NOME_NOVO`.
+
+Exemplo:
+
+- `git branch work` cria o branch work
+- `git branch -D work` apaga o branch work
+- `git branch -m work asdrubal` renomeia o branch work para asdrubal
+
+
+## 6. Contribuindo com repositórios de terceiros(open-source)
 
 Um grande diferencial de plataformas **open-source** é a possibilidade de **contribuir com repositórios de terceiros**, para isso é preciso seguir os seguintes passos:
 
