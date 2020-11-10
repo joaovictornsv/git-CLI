@@ -14,9 +14,7 @@
  
 <hr> 
 
-<div align="left">
-  
-## *Sumário*
+> ## *Sumário*
 > *1. [Iniciando o git](#1-iniciando-o-git)*\
 > *2. [Trabalhando com Repositório remoto](#2-trabalhando-com-repositório-remoto)*\
 > *3. [Adicionando arquivos para área de preparação](#3-adicionando-arquivos-para-área-de-preparação)*\
@@ -24,8 +22,6 @@
 > *5. [Criando branches](#5-criando-branches)*\
 > *6. [Contribuindo com repositórios de terceiros](#6-contribuindo-com-repositórios-de-terceiros)*
   
- </div>
- 
 </div>
 
 <hr>
