@@ -10,7 +10,7 @@
   
   *📝 Credits: [Beanstalk Guides](http://guides.beanstalkapp.com/) & [Git](https://git-scm.com/)*
   
-
+</div>
  
 <hr> 
 
@@ -21,8 +21,6 @@
 > *4. [Área de preparação](#4-área-de-preparação)*\
 > *5. [Criando branches](#5-criando-branches)*\
 > *6. [Contribuindo com repositórios de terceiros](#6-contribuindo-com-repositórios-de-terceiros)*
-  
-</div>
 
 <hr>
 
