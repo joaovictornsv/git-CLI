@@ -21,7 +21,7 @@
 *2. [Trabalhando com Repositório remoto](#2-trabalhando-com-repositório-remoto)*\
 *3. [Adicionando arquivos para área de preparação](#3-adicionando-arquivos-para-área-de-preparação)*\
 *4. [Área de preparação](#4-área-de-preparação)*\
-*5. [Contribuindo com repositórios de terceiros(open-source)](#5-contribuindo-com-repositórios-de-terceiros(open-source))*
+*5. [Contribuindo com repositórios de terceiros](#5-contribuindo-com-repositórios-de-terceiros)*
   
  </div>
  
@@ -106,7 +106,7 @@ Exemplo: Unindo as mudanças feitas na branch **new_feature** na branch atual:
 
 <hr>
 
-## 6. Contribuindo com repositórios de terceiros(open-source)
+## 6. Contribuindo com repositórios de terceiros
 
 Um grande diferencial de plataformas **open-source** é a possibilidade de **contribuir com repositórios de terceiros**, para isso é preciso seguir os seguintes passos:
 
