@@ -21,7 +21,8 @@
 *2. [Trabalhando com Repositório remoto](#2-trabalhando-com-repositório-remoto)*\
 *3. [Adicionando arquivos para área de preparação](#3-adicionando-arquivos-para-área-de-preparação)*\
 *4. [Área de preparação](#4-área-de-preparação)*\
-*5. [Contribuindo com repositórios de terceiros](#5-contribuindo-com-repositórios-de-terceiros)*
+*5. [Criando branches](#5-criando-branches)*\
+*6. [Contribuindo com repositórios de terceiros](#6-contribuindo-com-repositórios-de-terceiros)*
   
  </div>
  
@@ -79,7 +80,7 @@ Com o comando abaixo, irá criar um commit com os arquivos marcados como **Commi
 
 <hr>
 
-## 5. Criar branches
+## 5. Criando branches
 
 Esse **master** é um **branch** que o git cria automagicamente quando você faz um commit sem estar em nenhum branch (como é o caso de um repositório recém criado).
 
