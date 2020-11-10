@@ -96,6 +96,16 @@ Exemplo:
 - `git branch -m work asdrubal` renomeia o branch work para asdrubal
 
 
+### 5.1 Unindo branches
+
+Para combinar as mudanças feitas de uma branch para outra branch usamos o comando ```git merge <nome_da_branch>```.
+
+Exemplo: Unindo as mudanças feitas na branch **new_feature** na branch atual:
+
+```git merge new_feature```
+
+<hr>
+
 ## 6. Contribuindo com repositórios de terceiros(open-source)
 
 Um grande diferencial de plataformas **open-source** é a possibilidade de **contribuir com repositórios de terceiros**, para isso é preciso seguir os seguintes passos:
