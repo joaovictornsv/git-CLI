@@ -128,6 +128,7 @@ Exemplo:<br>
 Atualizando branch remota **master** com a branch atual<br>
 `git push origin master`
 
+<hr>
 
 ## 7. Contribuindo com repositórios de terceiros
 
