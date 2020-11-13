@@ -23,8 +23,8 @@
 > *3. [Adicionando arquivos para área de preparação](#3-adicionando-arquivos-para-área-de-preparação)*\
 > *4. [Área de preparação](#4-área-de-preparação)*\
 > *5. [Criando branches](#5-criando-branches)*\
-> *6. [Atualizando repositórios](#6-atualizando-repositórios)*\
-> *7. [Contribuindo com repositórios de terceiros](#7-contribuindo-com-repositórios-de-terceiros)*
+> *7. [Atualizando repositórios](#7-atualizando-repositórios)*\
+> *8. [Contribuindo com repositórios de terceiros](#8-contribuindo-com-repositórios-de-terceiros)*
 </details>
 
 <hr>
@@ -108,9 +108,19 @@ Exemplo: Unindo as mudanças feitas na branch **new_feature** na branch atual:
 
 <hr>
 
-## 6. Atualizando repositórios
+## 6. Clonando repositórios
+Para criar uma cópia local de um repositório remoto use o comando:<br>
+`git clone <remote_URL>`
 
-### 6.1 Repositório local (`git pull`)
+Exemplo:<br>
+Criando um repositório local como cópia do repositório remoto **climate-app**:<br>
+`git clone https://github.com/joaovictornsv/climate-app.git`
+
+<hr>
+
+## 7. Atualizando repositórios
+
+### 7.1 Repositório local (`git pull`)
 
 Para atualizar seu **repositório local** com as últimas alterações feitas no repositório remoto use o comando:<br>
 `git pull <remote_URL ou remote_name> <nome_da_branch>`
@@ -119,7 +129,7 @@ Exemplo:<br>
 Atualizando branch atual com a branch remota **feature**><br>
 `git pull origin feature`
 
-### 6.1 Repositório remoto (`git push`)
+### 7.1 Repositório remoto (`git push`)
 
 Para atualizar seu **repositório remoto** com as últimas alterações feitas no repositório local use o comando:<br>
 `git push <remote_URL ou remote_name> <nome_da_branch>`
@@ -130,7 +140,7 @@ Atualizando branch remota **master** com a branch atual<br>
 
 <hr>
 
-## 7. Contribuindo com repositórios de terceiros
+## 8. Contribuindo com repositórios de terceiros
 
 Um grande diferencial de plataformas **open-source** é a possibilidade de **contribuir com repositórios de terceiros**, para isso é preciso seguir os seguintes passos:
 
