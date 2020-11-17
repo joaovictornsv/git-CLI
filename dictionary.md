@@ -13,3 +13,14 @@
 </div>
 
 <hr>
+
+### Commit
+*Como substantivo*:<br>
+Representa um ponto em seu histórico GIT (linha do tempo do repositório). Esse histórico é formado por vários commits interrelacionados.
+
+*Como verbo*:<br>
+Ação de salvar o estado atual do projeto em um ponto; salvar uma nova "versão" na linha do tempo do projeto.
+
+<hr>
+
+### Branch
