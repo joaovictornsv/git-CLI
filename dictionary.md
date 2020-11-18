@@ -30,6 +30,11 @@ Ação de salvar o estado atual do projeto em um ponto; salvar uma nova "versão
 ### Branch
 Branches são as linhas de desenvolvimento do projeto. Um projeto pode ter várias branches em seu histórico. O commit mais recente de uma branch é referido como a ponta dessa branch.
 
+<hr>
+
+### Merge
+Realizar um merge significa unir as alterações de duas branches. Por exemplo: um merge da branch **new_feature** na branch **master** significa que a **master** será atualizada com as modificações (commits) feitos em **new_feature**.
+
 <div align="center">
   <img src="https://miro.medium.com/max/800/1*RTgn1s0GY8r0rSPsAzf8NQ.png" width=80% />
 </div>
