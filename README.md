@@ -50,7 +50,9 @@ OBS: nome do remote **normalmente** usado: `origin`
 
 <hr>
 
-## 3. Adicionando arquivos para área de preparação
+## 3. Adicionando/Removendo arquivos da área de preparação
+
+### 3.1 Adicionando:
 
 `git add`
 
@@ -58,7 +60,7 @@ Antes de ficar disponível para um commit, os arquivos e/ou pastas do seu reposi
 
 O Git index contém as últimas alterações da sua árvore de trabalho antes do próximo commit.
 
-### 3.1 Uso:
+#### 3.1.1 Uso:
 
 Para todas as alterações:<br/>
 `git add .`
@@ -68,6 +70,23 @@ Para um arquivo específico:<br/>
 
 Para uma pasta específica:<br/>
 `git add <nome_da_pasta>`
+
+### 3.2 Removendo:
+
+`git reset HEAD`
+
+O comando reset retorna a zona do buffer para HEAD. Isso limpa a zona do buffer das mudanças que nós acabamos de adicionar ao Git index, ou área de preparação.
+
+#### 3.2.1 Uso:
+
+Para todos os arquivos da área de preparação:<br/>
+`git reset HEAD *`
+
+Para um arquivo específico:<br/>
+`git reset HEAD <nome_do_arquivo>`
+
+Para uma pasta específica:<br/>
+`git reset HEAD <nome_da_pasta>`
 
 <hr>
 
