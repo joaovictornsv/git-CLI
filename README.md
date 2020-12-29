@@ -99,13 +99,15 @@ Esse **master** é um **branch** que o git cria automagicamente quando você faz
 
 Quando usamos Git, quase todas as operações são feitas dentro de um branch. Um branch nada mais é que uma lista de commits. Você pode criar, apagar e renomear branches.
 
-Para criar você usa o comando `git branch NOME_DO_BRANCH`. Para apagar `git branch -D NOME_DO_BRANCH`. E para renomear você usa `git branch -m NOME_ANTIGO NOME_NOVO`.
+Para listar as branches presentes no repositório você usa `git branch`. Para criar você usa o comando `git branch NOME_DO_BRANCH`. Para apagar `git branch -D NOME_DO_BRANCH`. Para renomear você usa `git branch -m NOME_ANTIGO NOME_NOVO`. E para mudar de branch você usa `git checkout NOME_DO_BRANCH`.
 
 Exemplo:
 
+- `git branch` lista as branches
 - `git branch work` cria o branch work
 - `git branch -D work` apaga o branch work
 - `git branch -m work asdrubal` renomeia o branch work para asdrubal
+- `git checkout work` muda para a branch work
 
 ### 5.1 Unindo branches
 
