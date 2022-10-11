@@ -90,19 +90,28 @@ Para uma pasta específica:<br/>
 
 <hr>
 
-## 4. Área de preparação
+## 4. Commits
 
 `git commit -m 'mensagem do commit'`
 
-Área de preparação é onde as mudanças feitas nos arquivos que foram adicionados com o `git add` serão preparadas (Staged changes)
+### 4.1 Área de stage
 
-### 4.1 Atalho
+Área onde adicionamos quais modificações serão versionadas pelo git no próximo commit. Para adicionar arquivos na _stage area_ utilizamos o comando `git add`. Podemos adicionar arquivos específicos ou todos os arquivos modificados:
+Para arquivos especificos: `git add <filename>` <br>
+Para todos os arquivos: `git add .`
 
-Com o comando abaixo, irá criar um commit com os arquivos marcados como **Commit candidate** e os **modified** e junta com a mensagem, mensagem do commit.
+### 4.2 Commit
+"Salva" as modificações nos arquivos (desde que estejam na área de _stage_) e adiciona mais um ponto na linha do tempo do projeto. Para realizar um commit, utiliza-se o seguinte comando.
+
+`git commit -m '<mensagem do commit>'`
+
+### 4.3 Atalho
+
+Com o comando abaixo, irá adicionar todos os arquivos modificados na área de _stage_ e também realizar o commit com a mensagem escolhida:
 
 `git commit -am 'mensagem do commit'`
 
-### 4.2 Histórico de commits
+### 4.4 Histórico de commits
 
 O comando abaixo irá listar os commits feitos no repositório em ordem cronológica inversa. Além disso, esse comando listará cada commit com o seu checksum SHA-1, o nome e email do autor, data de inserção, e a mensagem do commit.
 
