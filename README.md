@@ -145,6 +145,12 @@ Exemplo: Unindo as mudanças feitas na branch **new_feature** na branch atual:
 
 `git merge new_feature`
 
+### 5.2 Verificando diferenças
+
+Para verificar as diferenças entre duas branches (ou dois arquivos) basta utilizar o seguinte comando:
+
+`git diff <branch_1> <branch_2> ou `git diff <arquivo_1> <arquivo_2>`
+
 <hr>
 
 ## 6. Clonando repositórios
