@@ -224,3 +224,21 @@ já que esta ultilizando uma nova branch, use o comando `git push --set-upstream
 
 **7 -** No github clique em **"Compare e Pull Request"** para enviar para o usuário do repositório as mudanças feitas comparadas com o repositório principal, com isso ele irá analisar as alterações e decidir aceitar ou não suas mudanças, com um Merge(adicionar suas mudanças ao codigo principal) <br>
 **obs: importante deixar um comentário no pull request, explicando oque foi alterado no código**
+
+<hr>
+
+## 9. Otimização e Integridade
+
+### 9.1 Otimização
+Para otimizar o seu repositório em questões de performance, utilize o comando:
+
+`git gc`
+
+Ele identifica e apaga arquivos desnecessários. `gc` é uma abreviação para _garbage collector_.
+
+### 9.2 Integridade
+Para verificar a integridade dos arquivos do seu repositório e checar se há alguma corrupção em arquivos, utilize o comando:
+
+`git fsck`
+
+`fsck` é uma abreviação para File System Check.
