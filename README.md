@@ -88,6 +88,11 @@ Para um arquivo específico:<br/>
 Para uma pasta específica:<br/>
 `git reset HEAD <nome_da_pasta>`
 
+##### Bônus:
+Para remover todos os arquivos untracked do seu repositório, basta utilizar o comando:
+
+`git clean`
+
 <hr>
 
 ## 4. Commits
@@ -116,6 +121,10 @@ Com o comando abaixo, irá adicionar todos os arquivos modificados na área de _
 O comando abaixo irá listar os commits feitos no repositório em ordem cronológica inversa. Além disso, esse comando listará cada commit com o seu checksum SHA-1, o nome e email do autor, data de inserção, e a mensagem do commit.
 
 `git log`
+
+Caso deseje uma lista de commits agrupados pelo autor, basta utilizar o comando:
+
+`git shortlog`
 
 <hr>
 
