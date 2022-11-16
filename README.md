@@ -8,7 +8,7 @@
   
   *🤝 Aberto para PR's*
   
-  *📝 Credits: [Beanstalk Guides](http://guides.beanstalkapp.com/) & [Git](https://git-scm.com/)*
+  *📝 Credits: [Beanstalk Guides](http://guides.beanstalkapp.com/), [Git](https://git-scm.com/) e [Matheus Battisti](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages)*
   
 </div>
  
